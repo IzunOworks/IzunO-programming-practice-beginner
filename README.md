@@ -22,7 +22,6 @@ Each folder contains small practice programs and short README files.
  **Structure / フォルダ構成**
 ```
 /C
-/Cpp
 /Python
 ```
 
@@ -43,7 +42,7 @@ I'm still learning, so any interaction is welcome
 
 **Note / 注意:**  
 I'm Japanese and not fluent in English, but I’ll do my best.  
-日本語でも英語でもOKです！hahaha :)
+日本語でも英語でもOKです！hahaha :-)
 
 This repository is for learning purposes.  
 Feel free to read and learn from the code.
