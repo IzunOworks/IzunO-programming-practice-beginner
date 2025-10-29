@@ -44,3 +44,8 @@ I'm still learning, so any interaction is welcome
 **Note / 注意:**  
 I'm Japanese and not fluent in English, but I’ll do my best.  
 日本語でも英語でもOKです！hahaha :)
+
+This repository is for learning purposes.  
+Feel free to read and learn from the code.
+このリポジトリは学習目的です。  
+コードの閲覧・参考利用はご自由にどうぞ。
